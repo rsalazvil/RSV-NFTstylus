@@ -1,0 +1,6 @@
+[stylus]
+contracts = ["src/lib.rs"]  
+network = "arb-sepolia"     
+
+
+compiler = "rustc"
